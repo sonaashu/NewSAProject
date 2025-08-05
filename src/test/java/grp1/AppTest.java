@@ -1,12 +1,9 @@
 package grp1;
 
-import org.junit.Test;
+public class App {
 
-public class AppTest {
-
-  @Test
-  public void testMain() {
-    App.main(null);
+  public static void main(String[] args) {
+    System.out.println("Hello World!");
   }
 
 }
